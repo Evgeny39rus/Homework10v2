@@ -30,6 +30,9 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
     }
 
+    func sceneDidEnterBackground2(_ scene: UIScene) {
+
+    }
 
 }
 
